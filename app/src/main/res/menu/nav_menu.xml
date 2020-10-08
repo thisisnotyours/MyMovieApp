@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_grey_24dp"/>
+    <item
+        android:id="@+id/tv_shows"
+        android:title="TV Shows"
+        android:icon="@drawable/ic_live_tv_grey_24dp"/>
+    <item
+        android:id="@+id/movies"
+        android:title="Movies"
+        android:icon="@drawable/ic_local_movies_grey_24dp"/>
+    <item
+        android:id="@+id/my_list"
+        android:title="My List"
+        android:icon="@drawable/ic_mylist_add_grey_24dp"/>
+    <item
+        android:id="@+id/setting"
+        android:title="setting"
+        android:icon="@drawable/ic_setting_grey_24dp"/>
+</menu>
